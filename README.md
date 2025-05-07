@@ -30,7 +30,7 @@ Zero Head Tracker is a free, open-source head tracking solution that converts yo
 
 1. Clone this repository:
    ```
-   git clone https://github.com/username/zero-head-tracker.git
+   git clone https://github.com/4n4c0nd4RSA/zero-head-tracker
    cd zero-head-tracker
    ```
 
@@ -39,9 +39,7 @@ Zero Head Tracker is a free, open-source head tracking solution that converts yo
    pip install -r requirements.txt
    ```
 
-3. Download and install the [ViGEmBus driver](https://github.com/ViGEm/ViGEmBus/releases) (required for controller emulation)
-
-4. Run the application:
+3. Run the application:
    ```
    python zero-head-tracker.py
    ```
@@ -107,9 +105,9 @@ Zero Head Tracker is a free, open-source head tracking solution that converts yo
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+2. Create your feature branch (`git checkout -b main/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+4. Push to the branch (`git push origin main/amazing-feature`)
 5. Open a Pull Request
 
 ## License
@@ -124,4 +122,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ by [Your Name]
+Created by 4n4c0nd4
