@@ -25,6 +25,7 @@ Zero Head Tracker is a free, open-source head tracking solution that converts yo
 - Windows 10 or later (required for virtual controller support)
 - Python 3.8 or higher
 - Webcam
+- Git
 
 ## Installation
 
